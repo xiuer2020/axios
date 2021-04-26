@@ -2,7 +2,7 @@
 .idea
 .tscache
 .DS_Store
-node_modules/
+**node_modules/
 typings/
 coverage/
 test/typescript/axios.js*
